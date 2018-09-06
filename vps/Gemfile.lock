@@ -173,6 +173,7 @@ DEPENDENCIES
   berkshelf
   chef
   knife-solo
+  libyajl2
 
 BUNDLED WITH
    1.16.2
